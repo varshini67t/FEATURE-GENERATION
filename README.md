@@ -98,6 +98,6 @@ new = te.fit_transform (X=df4["City"],y=df4["Target"])
 
 df4=pd.concat([df4,new],axis=1)
 df4
-
+# OUTPUT
 # RESULT
 Thus we have performed Feature Generation process Successfully.
