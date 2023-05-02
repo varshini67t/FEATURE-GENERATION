@@ -99,5 +99,15 @@ new = te.fit_transform (X=df4["City"],y=df4["Target"])
 df4=pd.concat([df4,new],axis=1)
 df4
 # OUTPUT
+![image](https://user-images.githubusercontent.com/107982953/235742650-b2ccb142-06ca-4a42-bcd7-3301850a76d2.png)
+![image](https://user-images.githubusercontent.com/107982953/235742756-a61e0cb2-a197-4fcb-8b38-86cc36c2dbfb.png)
+![image](https://user-images.githubusercontent.com/107982953/235742816-34e63879-6720-4ce4-829a-d0d64d0898c3.png)
+![image](https://user-images.githubusercontent.com/107982953/235742879-cdd70523-dedf-4e61-922c-247dbfb3fa15.png)
+![image](https://user-images.githubusercontent.com/107982953/235742965-0e519269-dce0-4b05-a9c6-a9f6cbe9475f.png)
+![image](https://user-images.githubusercontent.com/107982953/235743108-3d4202aa-a365-4cbb-abb1-770b9e97953c.png)
+![image](https://user-images.githubusercontent.com/107982953/235743180-5777fb87-20fa-4ab0-8ef8-15f0d73778b2.png)
+![image](https://user-images.githubusercontent.com/107982953/235743247-898863b2-a228-47d4-8954-fc8def3b6389.png)
+![image](https://user-images.githubusercontent.com/107982953/235743314-0b069143-20b4-4475-b1cf-2eca7d1e1726.png)
+
 # RESULT
 Thus we have performed Feature Generation process Successfully.
